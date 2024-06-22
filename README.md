@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lampzz
+- 👋 Hi, I’m @Mukuna
 - 👀 I’m interested in Data Analysis and Data Science.
 - 🌱 I’m currently learning Data Analysis to be a marketing analyst.
 - 💞️ I’m looking to collaborate on various python(pandas), SQL, and POWERBI Viz projects.
